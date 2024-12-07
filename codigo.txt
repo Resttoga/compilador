@@ -12,7 +12,7 @@ be(z=_=4){
 }
 
 for(i=.=0;i<.<3;i++){
-    imprimir(text)
+    imprimir('holamundo')
 }
 
 def funcion(){
