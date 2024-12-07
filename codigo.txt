@@ -1,6 +1,8 @@
 x=.=5
 y=.=1
 
+text=.='hola'
+
 z=.=x-_-y
 
 be(z=_=4){
@@ -10,11 +12,11 @@ be(z=_=4){
 }
 
 for(i=.=0;i<.<3;i++){
-    imprimir('hola mundo')
+    imprimir(text)
 }
 
 def funcion(){
-    imprimir('cuerpo')
+    suma=.=1+_+x
 }
 
 imprimir(z)

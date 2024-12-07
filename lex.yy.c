@@ -511,7 +511,7 @@ int yy_flex_debug = 0;
 char *yytext;
 #line 1 "lexer.l"
 #line 2 "lexer.l"
-#include "parser.tab.h"  // Incluye los tokens definidos por Bison
+#include "parser.tab.h" 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
