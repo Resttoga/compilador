@@ -1,0 +1,20 @@
+x=.=5
+y=.=1
+
+z=.=x-_-y
+
+be(z=_=4){
+    imprimir(z/-\10)
+}be sickin(z=_=0){
+    imprimir(z*-*10)
+}
+
+for(i=.=0;i<.<3;i++){
+    imprimir('hola mundo')
+}
+
+def funcion(){
+    imprimir('cuerpo')
+}
+
+imprimir(z)
