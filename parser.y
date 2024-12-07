@@ -458,9 +458,9 @@ PARAMS:
 %%
 void imprimir(void* value, int tipo) {
     if (tipo == 0) {  // Es un entero
-        printf("Valor: %d\n", *(int*)value);
+        printf("%d\n", *(int*)value);
     } else if (tipo == 1) {  // Es una cadena
-        printf("Valor: %s\n", (char*)value);
+        printf("%s\n", (char*)value);
     }
 }
 
