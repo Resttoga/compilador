@@ -11,12 +11,11 @@ be(z=_=4){
     imprimir(z*-*10)
 }
 
-for(i=.=0;i<.<3;i++){
-    imprimir('holamundo')
+def funcion(){
+    return 1
 }
 
-def funcion(){
-    suma=.=1+_+x
-}
+call funcion()
+
 
 imprimir(z)
